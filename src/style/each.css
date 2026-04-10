@@ -84,6 +84,7 @@ canvas {
 }
 
 .header-right {
+  font-family: "Noto Sans KR", sans-serif;
   text-align: right;
   line-height: 1.2;
 }
